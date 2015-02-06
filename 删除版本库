@@ -1,0 +1,13 @@
+如何删除自己创建的一个项目，我浏览了一下github网站，确实不太容易找到删除功能。这里介绍一下啊如何在github上删除一个repository
+
+一：首先点击进入你要删除的repository，如下图，点击setting
+
+
+二：将网页拉到下方，找到Delete this repository 按钮，点击。
+
+
+三：在弹出的对话框中输入你的repository的名字,
+
+然后点击下方的按钮完成删除。
+
+OK，这样就完全删除了一个项目。
